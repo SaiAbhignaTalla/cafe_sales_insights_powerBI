@@ -1,0 +1,33 @@
+1. What is the total revenue and how many transactions were made?
+	- Understanding the overall revenue helps gauge business performance and sales volume.
+
+2. Which day of the week has the highest sales?
+	- Identifying the busiest days helps optimize staffing and inventory management.
+
+3. What are the most popular items sold in terms of quantity and revenue?
+	- Knowing the top-selling items enables better stock management and targeted promotions.
+
+4. Which payment method is preferred by customers?
+	- Analyzing payment trends helps improve the customer experience and streamline checkout processes.
+
+5. How does monthly revenue trend over time?
+	- Tracking revenue changes month by month highlights growth patterns and seasonal variations.
+
+6. Is there a difference in sales between In-store and Takeaway orders?
+	- Understanding location-based sales helps in planning store layouts and takeaway services.
+
+7. How does item popularity vary across locations?
+	- Comparing item performance between locations supports data-driven product placement strategies.
+
+8. What is the average revenue per transaction?
+	- Calculating this metric helps assess the value of each customer visit.
+
+9. Which item generates the highest revenue?
+	- Pinpointing high-revenue items aids in promotional strategies and menu updates.
+
+10. How is the sales distribution by location?
+	- Analyzing location-based sales distribution helps allocate resources efficiently.
+
+Why These Questions Matter:
+
+Answering these questions provides actionable insights that can help the cafe increase revenue, optimize operations, and enhance customer satisfaction. The dashboard visualizes these answers with interactive charts and KPIs, making it easy to understand and act on the data.
